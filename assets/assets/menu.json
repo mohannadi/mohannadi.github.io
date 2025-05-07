@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "food": [
     {
@@ -42,3 +43,49 @@
     }
   ]
 }
+=======
+{
+  "food": [
+    {
+      "name": "Burger",
+      "description": "A delicious beef burger with lettuce and tomato.",
+      "image": "https://via.placeholder.com/150",
+      "price": 8.99
+    },
+    {
+      "name": "Pizza",
+      "description": "Cheesy pizza with your choice of toppings.",
+      "image": "https://via.placeholder.com/150",
+      "price": 12.99
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Coke",
+      "description": "Refreshing cola drink.",
+      "image": "https://via.placeholder.com/150",
+      "price": 1.99
+    },
+    {
+      "name": "Lemonade",
+      "description": "Freshly squeezed lemonade.",
+      "image": "https://via.placeholder.com/150",
+      "price": 2.49
+    }
+  ],
+  "smoothies": [
+    {
+      "name": "Strawberry Smoothie",
+      "description": "A creamy strawberry smoothie.",
+      "image": "https://via.placeholder.com/150",
+      "price": 4.99
+    },
+    {
+      "name": "Mango Smoothie",
+      "description": "A tropical mango smoothie.",
+      "image": "https://via.placeholder.com/150",
+      "price": 5.49
+    }
+  ]
+}
+>>>>>>> 33cd8ad3480dc6448dea33907b8c1413849ad1c4
